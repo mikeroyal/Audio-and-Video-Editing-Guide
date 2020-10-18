@@ -4,7 +4,7 @@
   Audio and Video Editing Guide
 </h1>
 
-#### A guide for using for Audio and Video Editing applications.
+#### A guide covering applications, tools, and techniques that will make you a better and more efficient Audio/Video Editor.
 
 ## Resources
 
